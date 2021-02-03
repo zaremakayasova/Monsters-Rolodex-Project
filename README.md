@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Live version available here: [https://zaremakayasova.github.io/Monsters-Rolodex-Project/](https://zaremakayasova.github.io/Monsters-Rolodex-Project/)
 
+## Screeenshots
+
+![Screenshot (40)](https://user-images.githubusercontent.com/71195337/106808589-93df0380-6638-11eb-9a41-54fdc4ce73d2.png)
+
+#### Search Filter
+
+![Screenshot (39)](https://user-images.githubusercontent.com/71195337/106808782-d30d5480-6638-11eb-95ce-a19ae8e2979d.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
