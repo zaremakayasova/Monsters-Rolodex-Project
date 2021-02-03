@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+Live version available here: [https://zaremakayasova.github.io/Monsters-Rolodex-Project/](https://zaremakayasova.github.io/Monsters-Rolodex-Project/)
+
 ## Available Scripts
 
 In the project directory, you can run:
